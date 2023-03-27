@@ -1,0 +1,21 @@
+PS C:\Users\Lenovo\Desktop\3D_portfolio> npm create vite@latest ./ -- --template react
+
+visit : tailwindcss
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+PS C:\Users\Lenovo\Desktop\3D_portfolio> npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+tailwind css not working
+
+PS C:\Users\Lenovo\Desktop\3D_portfolio> npm install -D tailwindcss postcss autoprefixer
+
+Run the server
+PS C:\Users\Lenovo\Desktop\3D_portfolio> npm run dev
+
+To solve the error (**)
+
+PS C:\Users\Lenovo\Desktop\3D_portfolio> npm install --legacy-peer-deps three  
+
+3D model skecthfab
