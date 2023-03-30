@@ -2,7 +2,7 @@ PS C:\Users\Lenovo\Desktop\3D_portfolio> npm create vite@latest ./ -- --template
 
 visit : tailwindcss
 
-npm install -D tailwindcss
+npm install -D tailwindcss 
 npx tailwindcss init
 
 PS C:\Users\Lenovo\Desktop\3D_portfolio> npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
